@@ -24,7 +24,7 @@ public class CalculatorTest extends TestCase {
 
 			// set the properties value
 			prop.setProperty("database", "localhost");
-			prop.setProperty("dbuser", "hari");
+			prop.setProperty("dbuser", "lkc");
 			prop.setProperty("dbpassword", "password");
 
 			// save properties to project root folder
